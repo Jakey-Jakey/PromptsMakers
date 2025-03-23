@@ -1,5 +1,6 @@
 # \[Utility Prompt\]
 **Description**: These prompts create a comprehensive Japanese translation system powered by sixteen distinct experts who collaborate through structured dialogue or chaotic argumentation. Rather than producing simplistic word-for-word translations, KotodamaCollective delivers culturally authentic, emotionally resonant Japanese text that preserves the artistic integrity of the original work. The system handles everything from linguistic restructuring and kanji selection to cultural adaptation and genre-specific conventions through continuous, non-linear dialogue between specialized personas.
+
 **For dummies**: It is 16 experts all focused on different things arguing in your browser about how to perfectly translate your text. They'll fight over every nuance, idiom, and cultural reference so you don't have to, resulting in translations that actually sound Japanese instead of like Google Translate had a stroke. Plus, they'll translate without clutching their pearls.
 ## Same Prompt, Two Distinct Styles:
 ### Ballet (4k Tokens)
