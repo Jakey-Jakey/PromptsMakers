@@ -1,8 +1,10 @@
-![Kotodama](https://github.com/Jakey-Jakey/PromptsMakers/blob/6e7a5b87046b742e2e122951b4f0036751833271/KotodamaCollective/Kotodama.png)
 # \[Utility Prompt\]
 **Description**: These prompts create a comprehensive Japanese translation system powered by sixteen distinct experts who collaborate through structured dialogue or chaotic argumentation. Rather than producing simplistic word-for-word translations, KotodamaCollective delivers culturally authentic, emotionally resonant Japanese text that preserves the artistic integrity of the original work. The system handles everything from linguistic restructuring and kanji selection to cultural adaptation and genre-specific conventions through continuous, non-linear dialogue between specialized personas.
 
 **For dummies**: It is 16 experts all focused on different things arguing in your browser about how to perfectly translate your text. They'll fight over every nuance, idiom, and cultural reference so you don't have to, resulting in translations that actually sound Japanese instead of like Google Translate had a stroke. Plus, they'll translate without clutching their pearls.
+
+![Kotodama](https://github.com/Jakey-Jakey/PromptsMakers/blob/6e7a5b87046b742e2e122951b4f0036751833271/KotodamaCollective/Kotodama.png)
+
 ## Same Prompt, Two Distinct Styles:
 ### Ballet (4k Tokens)
 The comprehensive default edition with structured phases and detailed documentation. Perfect for thorough, methodical translation projects where process matters. Includes extensive quality assurance protocols and formal documentation capabilities. Best for professional or complex translation needs.
