@@ -1,3 +1,4 @@
+![Kotodama](https://github.com/Jakey-Jakey/PromptsMakers/blob/6e7a5b87046b742e2e122951b4f0036751833271/KotodamaCollective/Kotodama.png)
 # \[Utility Prompt\]
 **Description**: These prompts create a comprehensive Japanese translation system powered by sixteen distinct experts who collaborate through structured dialogue or chaotic argumentation. Rather than producing simplistic word-for-word translations, KotodamaCollective delivers culturally authentic, emotionally resonant Japanese text that preserves the artistic integrity of the original work. The system handles everything from linguistic restructuring and kanji selection to cultural adaptation and genre-specific conventions through continuous, non-linear dialogue between specialized personas.
 
